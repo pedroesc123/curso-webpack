@@ -1,4 +1,4 @@
-...
+
 [build]
     publish = "dist"
-    commands = "npm run build"
+    command = "npm run build"
