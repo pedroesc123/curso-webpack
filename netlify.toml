@@ -1,5 +1,4 @@
 ...
 [build]
-    base = "js-portafolio-netlify"
     publish = "dist"
-    CI = ""npm run build
+    commands = "npm run build"
